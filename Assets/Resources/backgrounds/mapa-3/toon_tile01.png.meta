@@ -1,0 +1,1495 @@
+fileFormatVersion: 2
+guid: 9eca0bf8d94d1d59f8aff165ac307bad
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2938671097124869402
+    second: toon_tile01_0
+  - first:
+      213: 525590598348536762
+    second: toon_tile01_1
+  - first:
+      213: 975966718202611655
+    second: toon_tile01_2
+  - first:
+      213: 8560732936198077569
+    second: toon_tile01_3
+  - first:
+      213: -6295208486584283314
+    second: toon_tile01_4
+  - first:
+      213: -1747622944870055624
+    second: toon_tile01_5
+  - first:
+      213: -7453407179567704187
+    second: toon_tile01_6
+  - first:
+      213: 7029124700699207715
+    second: toon_tile01_7
+  - first:
+      213: 1434363409871682529
+    second: toon_tile01_8
+  - first:
+      213: 3038105364372869187
+    second: toon_tile01_9
+  - first:
+      213: 4382175779650863346
+    second: toon_tile01_10
+  - first:
+      213: -2586801301075890750
+    second: toon_tile01_11
+  - first:
+      213: 4563695794965181548
+    second: toon_tile01_12
+  - first:
+      213: -8811841490332308597
+    second: toon_tile01_13
+  - first:
+      213: -2072238230789369940
+    second: toon_tile01_14
+  - first:
+      213: -7555522049923259763
+    second: toon_tile01_15
+  - first:
+      213: -1861298632311076186
+    second: toon_tile01_16
+  - first:
+      213: -7782014332729136709
+    second: toon_tile01_17
+  - first:
+      213: 8769296787716060239
+    second: toon_tile01_18
+  - first:
+      213: 2560371180355308627
+    second: toon_tile01_19
+  - first:
+      213: 2607389946551723025
+    second: toon_tile01_20
+  - first:
+      213: -5040193383883014899
+    second: toon_tile01_21
+  - first:
+      213: -1551315941443132606
+    second: toon_tile01_22
+  - first:
+      213: 523275966122519582
+    second: toon_tile01_23
+  - first:
+      213: -4598956992271240814
+    second: toon_tile01_24
+  - first:
+      213: -2001499675511757458
+    second: toon_tile01_25
+  - first:
+      213: -4345403506433072552
+    second: toon_tile01_26
+  - first:
+      213: 3838120811878467476
+    second: toon_tile01_27
+  - first:
+      213: 8663344365109174078
+    second: toon_tile01_28
+  - first:
+      213: -8636178871433873845
+    second: toon_tile01_29
+  - first:
+      213: -6901385145030955099
+    second: toon_tile01_30
+  - first:
+      213: 8698025244235686753
+    second: toon_tile01_31
+  - first:
+      213: 6851015377706693813
+    second: toon_tile01_32
+  - first:
+      213: 3934446723395451720
+    second: toon_tile01_33
+  - first:
+      213: 1517992345956823157
+    second: toon_tile01_34
+  - first:
+      213: 6329831425221267391
+    second: toon_tile01_35
+  - first:
+      213: -474569106199756414
+    second: toon_tile01_36
+  - first:
+      213: -8296130281484764607
+    second: toon_tile01_37
+  - first:
+      213: -7052434130095966928
+    second: toon_tile01_38
+  - first:
+      213: -310544838914244582
+    second: toon_tile01_39
+  - first:
+      213: -2052857700109583657
+    second: toon_tile01_40
+  - first:
+      213: -6571268434786695421
+    second: toon_tile01_41
+  - first:
+      213: -7592160733394603591
+    second: toon_tile01_42
+  - first:
+      213: -4985728690595169229
+    second: toon_tile01_43
+  - first:
+      213: 6743954968406413788
+    second: toon_tile01_44
+  - first:
+      213: -8499837935003723131
+    second: toon_tile01_45
+  - first:
+      213: 6748655207052939715
+    second: toon_tile01_46
+  - first:
+      213: -58571359525530739
+    second: toon_tile01_47
+  - first:
+      213: -1786844490955270772
+    second: toon_tile01_48
+  - first:
+      213: 6158570587590714229
+    second: toon_tile01_49
+  - first:
+      213: 1705713728847924029
+    second: toon_tile01_50
+  - first:
+      213: -8306418062978732202
+    second: toon_tile01_51
+  - first:
+      213: -6798837408158329444
+    second: toon_tile01_52
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: toon_tile01_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1060
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a15d5d70bc148c820800000000000000
+      internalID: 2938671097124869402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toon_tile01_1
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 1060
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abb79df4dd54b4700800000000000000
+      internalID: 525590598348536762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toon_tile01_2
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 1060
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c7021f2f845b8d00800000000000000
+      internalID: 975966718202611655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toon_tile01_3
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 1060
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18cb21faf35ddc670800000000000000
+      internalID: 8560732936198077569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toon_tile01_4
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 1060
+        width: 135
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4f8e122c3de2a8a0800000000000000
+      internalID: -6295208486584283314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toon_tile01_5
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 1060
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 831c2b1e0323fb7e0800000000000000
+      internalID: -1747622944870055624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toon_tile01_6
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 915
+        width: 134
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5875587f8ad209890800000000000000
+      internalID: -7453407179567704187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toon_tile01_7
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 916
+        width: 139
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 328a9136ca77c8160800000000000000
+      internalID: 7029124700699207715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toon_tile01_8
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 916
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eb3834fbe1e7e310800000000000000
+      internalID: 1434363409871682529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toon_tile01_9
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 916
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34057a97bb4892a20800000000000000
+      internalID: 3038105364372869187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toon_tile01_10
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 916
+        width: 131
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f0096167ad90dc30800000000000000
+      internalID: 4382175779650863346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toon_tile01_11
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 916
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cd6ad01ce5d91cd0800000000000000
+      internalID: -2586801301075890750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toon_tile01_12
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 820
+        width: 139
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c64f7d16521855f30800000000000000
+      internalID: 4563695794965181548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toon_tile01_13
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 820
+        width: 131
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8ba1b70adc06b580800000000000000
+      internalID: -8811841490332308597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toon_tile01_14
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 820
+        width: 131
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cafc0dbee4eed33e0800000000000000
+      internalID: -2072238230789369940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toon_tile01_15
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 819
+        width: 134
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8261b9f9b4652790800000000000000
+      internalID: -7555522049923259763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toon_tile01_16
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 828
+        width: 135
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aa8d2861c65b26e0800000000000000
+      internalID: -1861298632311076186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toon_tile01_17
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 828
+        width: 134
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb96eacf13bb00490800000000000000
+      internalID: -7782014332729136709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toon_tile01_18
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 676
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f443ac977fcc2b970800000000000000
+      internalID: 8769296787716060239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toon_tile01_19
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 676
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35cc93ae504488320800000000000000
+      internalID: 2560371180355308627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toon_tile01_20
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 676
+        width: 134
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 114e323875f4f2420800000000000000
+      internalID: 2607389946551723025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toon_tile01_21
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 676
+        width: 134
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0df06a42d2ad0ab0800000000000000
+      internalID: -5040193383883014899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toon_tile01_22
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 676
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 243a1e7de5e987ae0800000000000000
+      internalID: -1551315941443132606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toon_tile01_23
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 708
+        width: 138
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1c6b3008bc034700800000000000000
+      internalID: 523275966122519582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toon_tile01_24
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 532
+        width: 139
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 291bf5a5bf83d20c0800000000000000
+      internalID: -4598956992271240814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toon_tile01_25
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 532
+        width: 139
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e65ef0746ae3934e0800000000000000
+      internalID: -2001499675511757458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toon_tile01_26
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 532
+        width: 258
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 852e159a88602b3c0800000000000000
+      internalID: -4345403506433072552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toon_tile01_27
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 532
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 497cc0d0b8eb34530800000000000000
+      internalID: 3838120811878467476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toon_tile01_28
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 564
+        width: 138
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3fd639bcc16a3870800000000000000
+      internalID: 8663344365109174078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toon_tile01_29
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 388
+        width: 131
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b463377a211262880800000000000000
+      internalID: -8636178871433873845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toon_tile01_30
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 388
+        width: 131
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5afa54496ca5930a0800000000000000
+      internalID: -6901385145030955099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toon_tile01_31
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 388
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1636c0220e795b870800000000000000
+      internalID: 8698025244235686753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toon_tile01_32
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 388
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b432f21032b31f50800000000000000
+      internalID: 6851015377706693813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toon_tile01_33
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 388
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84b7fa70376f99630800000000000000
+      internalID: 3934446723395451720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toon_tile01_34
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 388
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 570b488fefdf01510800000000000000
+      internalID: 1517992345956823157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toon_tile01_35
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 244
+        width: 134
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbf0b64f42418d750800000000000000
+      internalID: 6329831425221267391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toon_tile01_36
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 244
+        width: 134
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 281c69b89edf969f0800000000000000
+      internalID: -474569106199756414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toon_tile01_37
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 244
+        width: 135
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14a3db9b6793edc80800000000000000
+      internalID: -8296130281484764607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toon_tile01_38
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 244
+        width: 135
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 035f9c92688b02e90800000000000000
+      internalID: -7052434130095966928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toon_tile01_39
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 244
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a108fa54d19b0bbf0800000000000000
+      internalID: -310544838914244582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toon_tile01_40
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 244
+        width: 135
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dafa8a5cc8c283e0800000000000000
+      internalID: -2052857700109583657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toon_tile01_41
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 206
+        width: 59
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3074dc4bc2a2ec4a0800000000000000
+      internalID: -6571268434786695421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toon_tile01_42
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 100
+        width: 138
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b17858b90a33a690800000000000000
+      internalID: -7592160733394603591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toon_tile01_43
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 100
+        width: 139
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33cf992eb222fcab0800000000000000
+      internalID: -4985728690595169229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toon_tile01_44
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 100
+        width: 134
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd158111057579d50800000000000000
+      internalID: 6743954968406413788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toon_tile01_45
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 100
+        width: 135
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58a96b3ae628a0a80800000000000000
+      internalID: -8499837935003723131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toon_tile01_46
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 100
+        width: 135
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c11bf7a72a08ad50800000000000000
+      internalID: 6748655207052939715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toon_tile01_47
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 100
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d831879a8a9ef2ff0800000000000000
+      internalID: -58571359525530739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toon_tile01_48
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 96
+        width: 59
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c855fbf076ad337e0800000000000000
+      internalID: -1786844490955270772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toon_tile01_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 19
+        width: 129
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5736385e153a77550800000000000000
+      internalID: 6158570587590714229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toon_tile01_50
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 20
+        width: 130
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3bcc706999eba710800000000000000
+      internalID: 1705713728847924029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toon_tile01_51
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 0
+        width: 130
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65fa340f7cca9bc80800000000000000
+      internalID: -8306418062978732202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toon_tile01_52
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 0
+        width: 131
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c95d519266da5a1a0800000000000000
+      internalID: -6798837408158329444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      toon_tile01_0: 2938671097124869402
+      toon_tile01_1: 525590598348536762
+      toon_tile01_10: 4382175779650863346
+      toon_tile01_11: -2586801301075890750
+      toon_tile01_12: 4563695794965181548
+      toon_tile01_13: -8811841490332308597
+      toon_tile01_14: -2072238230789369940
+      toon_tile01_15: -7555522049923259763
+      toon_tile01_16: -1861298632311076186
+      toon_tile01_17: -7782014332729136709
+      toon_tile01_18: 8769296787716060239
+      toon_tile01_19: 2560371180355308627
+      toon_tile01_2: 975966718202611655
+      toon_tile01_20: 2607389946551723025
+      toon_tile01_21: -5040193383883014899
+      toon_tile01_22: -1551315941443132606
+      toon_tile01_23: 523275966122519582
+      toon_tile01_24: -4598956992271240814
+      toon_tile01_25: -2001499675511757458
+      toon_tile01_26: -4345403506433072552
+      toon_tile01_27: 3838120811878467476
+      toon_tile01_28: 8663344365109174078
+      toon_tile01_29: -8636178871433873845
+      toon_tile01_3: 8560732936198077569
+      toon_tile01_30: -6901385145030955099
+      toon_tile01_31: 8698025244235686753
+      toon_tile01_32: 6851015377706693813
+      toon_tile01_33: 3934446723395451720
+      toon_tile01_34: 1517992345956823157
+      toon_tile01_35: 6329831425221267391
+      toon_tile01_36: -474569106199756414
+      toon_tile01_37: -8296130281484764607
+      toon_tile01_38: -7052434130095966928
+      toon_tile01_39: -310544838914244582
+      toon_tile01_4: -6295208486584283314
+      toon_tile01_40: -2052857700109583657
+      toon_tile01_41: -6571268434786695421
+      toon_tile01_42: -7592160733394603591
+      toon_tile01_43: -4985728690595169229
+      toon_tile01_44: 6743954968406413788
+      toon_tile01_45: -8499837935003723131
+      toon_tile01_46: 6748655207052939715
+      toon_tile01_47: -58571359525530739
+      toon_tile01_48: -1786844490955270772
+      toon_tile01_49: 6158570587590714229
+      toon_tile01_5: -1747622944870055624
+      toon_tile01_50: 1705713728847924029
+      toon_tile01_51: -8306418062978732202
+      toon_tile01_52: -6798837408158329444
+      toon_tile01_6: -7453407179567704187
+      toon_tile01_7: 7029124700699207715
+      toon_tile01_8: 1434363409871682529
+      toon_tile01_9: 3038105364372869187
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

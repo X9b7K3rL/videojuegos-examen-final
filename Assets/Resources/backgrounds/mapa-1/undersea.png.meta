@@ -1,0 +1,663 @@
+fileFormatVersion: 2
+guid: adcf080dc99ce31d7a077a32d91fc84c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7379003334591291586
+    second: undersea_0
+  - first:
+      213: 1590018250599988216
+    second: undersea_1
+  - first:
+      213: -4682064343929839319
+    second: undersea_2
+  - first:
+      213: -6364739263278258198
+    second: undersea_3
+  - first:
+      213: -8522219509006686910
+    second: undersea_4
+  - first:
+      213: 1192951488543428254
+    second: undersea_5
+  - first:
+      213: -548980236430493153
+    second: undersea_6
+  - first:
+      213: 6690694555694710662
+    second: undersea_7
+  - first:
+      213: -6376969124661246863
+    second: undersea_8
+  - first:
+      213: -6160934512522584480
+    second: undersea_9
+  - first:
+      213: 7271992024007190029
+    second: undersea_10
+  - first:
+      213: 6987577169870445122
+    second: undersea_11
+  - first:
+      213: 164658687602153481
+    second: undersea_12
+  - first:
+      213: -6272853686966344569
+    second: undersea_13
+  - first:
+      213: 8350220594472435652
+    second: undersea_14
+  - first:
+      213: 6762998783351412723
+    second: undersea_15
+  - first:
+      213: 4208772910182811143
+    second: undersea_16
+  - first:
+      213: 5081240901716233347
+    second: undersea_17
+  - first:
+      213: 7782580223902025588
+    second: undersea_18
+  - first:
+      213: -8508288348156923366
+    second: undersea_19
+  - first:
+      213: -2508785946251830194
+    second: undersea_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: undersea_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 671
+        width: 258
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c0acbaef6c776660800000000000000
+      internalID: 7379003334591291586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: undersea_1
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 671
+        width: 260
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fb7665bc21e01610800000000000000
+      internalID: 1590018250599988216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: undersea_2
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 855
+        width: 38
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9212a8c2947f50fb0800000000000000
+      internalID: -4682064343929839319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: undersea_3
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 864
+        width: 37
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae76154ac57eba7a0800000000000000
+      internalID: -6364739263278258198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: undersea_4
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 879
+        width: 121
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 245a0cb528efab980800000000000000
+      internalID: -8522219509006686910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: undersea_5
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 800
+        width: 37
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9e87ecee073e8010800000000000000
+      internalID: 1192951488543428254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: undersea_6
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 699
+        width: 152
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1ab9d23261a168f0800000000000000
+      internalID: -548980236430493153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: undersea_7
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 782
+        width: 770
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68fb2d4ef3f1adc50800000000000000
+      internalID: 6690694555694710662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: undersea_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 335
+        width: 258
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 174cee42e547087a0800000000000000
+      internalID: -6376969124661246863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: undersea_9
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 487
+        width: 74
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06e95a0f3b6ff7aa0800000000000000
+      internalID: -6160934512522584480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: undersea_10
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 623
+        width: 1026
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d062c68973e4be460800000000000000
+      internalID: 7271992024007190029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: undersea_11
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 511
+        width: 32
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24ad1ca0a6cd8f060800000000000000
+      internalID: 6987577169870445122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: undersea_12
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 478
+        width: 74
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90855b7343cf84200800000000000000
+      internalID: 164658687602153481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: undersea_13
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 15
+        width: 1026
+        height: 531
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7842f548ec852f8a0800000000000000
+      internalID: -6272853686966344569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: undersea_14
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 367
+        width: 63
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cf3ea9a361f1e370800000000000000
+      internalID: 8350220594472435652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: undersea_15
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 270
+        width: 74
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f75f02cf8ffadd50800000000000000
+      internalID: 6762998783351412723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: undersea_16
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 241
+        width: 52
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 706cbbba9a0986a30800000000000000
+      internalID: 4208772910182811143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: undersea_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 258
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38c4bf4bda1348640800000000000000
+      internalID: 5081240901716233347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: undersea_18
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 166
+        width: 50
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47709a1da77410c60800000000000000
+      internalID: 7782580223902025588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: undersea_19
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 102
+        width: 34
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a12f28183dc7ce980800000000000000
+      internalID: -8508288348156923366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: undersea_20
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 113
+        width: 57
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4cda2859700f2dd0800000000000000
+      internalID: -2508785946251830194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      undersea_0: 7379003334591291586
+      undersea_1: 1590018250599988216
+      undersea_10: 7271992024007190029
+      undersea_11: 6987577169870445122
+      undersea_12: 164658687602153481
+      undersea_13: -6272853686966344569
+      undersea_14: 8350220594472435652
+      undersea_15: 6762998783351412723
+      undersea_16: 4208772910182811143
+      undersea_17: 5081240901716233347
+      undersea_18: 7782580223902025588
+      undersea_19: -8508288348156923366
+      undersea_2: -4682064343929839319
+      undersea_20: -2508785946251830194
+      undersea_3: -6364739263278258198
+      undersea_4: -8522219509006686910
+      undersea_5: 1192951488543428254
+      undersea_6: -548980236430493153
+      undersea_7: 6690694555694710662
+      undersea_8: -6376969124661246863
+      undersea_9: -6160934512522584480
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
